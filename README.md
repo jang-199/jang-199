@@ -4,8 +4,8 @@
 ## Platforms & Languages
 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white)
-![](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring Securityt&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurityt&logoColor=white)
 
 
 
