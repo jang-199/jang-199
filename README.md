@@ -4,7 +4,7 @@
 ## Platforms & Languages
 
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)
-![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang-199&show_icons=true&theme=prussian)
