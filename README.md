@@ -2,7 +2,7 @@
 # Skills
 
 ## Platforms & Languages
-<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/#6DB33F?style=?style=flat-square&logo=appveyor&logo=Spring&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang-199&show_icons=true&theme=prussian)
