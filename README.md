@@ -24,6 +24,7 @@ https://img.shields.io/github/issues-closed/beygee/survive
 https://img.shields.io/github/commit-activity/w/beygee/survive
 //깃헙 레포 라스트 커밋 날짜
 https://img.shields.io/github/last-commit/beygee/survive
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang-199&show_icons=true&theme=prussian)
 
 <!--
