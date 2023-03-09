@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
 ![](https://img.shields.io/badge/Swagger-6DB33F?style=flat-square&logo=Swagger&logoColor=white)
 
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
 
 
 
