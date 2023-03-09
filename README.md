@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang-199&show_icons=true&theme=radical)
 
 <!--
 **jang-199/jang-199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
