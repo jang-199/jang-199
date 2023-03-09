@@ -3,8 +3,11 @@
 
 ## Platforms & Languages
 
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white)
+![](https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Securityt&logoColor=white)
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang-199&show_icons=true&theme=prussian)
