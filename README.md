@@ -3,7 +3,7 @@
 
 ## Platforms & Languages
 
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Spring&logoColor=black)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)
 ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 
 
