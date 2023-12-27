@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jang-199&show_icons=true&theme=prussian)
+
 
  
 ### Platforms & Languages
